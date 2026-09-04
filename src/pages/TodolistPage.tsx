@@ -57,7 +57,7 @@ export default function TodolistPage() {
 
           {/* ── 5) Footer (รับ props year, fullName, studentId) ─────────────── */}
           <Footer
-            year="2025"
+            year="2026"
             fullName="Nuttachai Surathong"
             studentId="680610671"
           />
