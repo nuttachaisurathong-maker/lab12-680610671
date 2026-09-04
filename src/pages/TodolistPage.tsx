@@ -29,7 +29,7 @@ export default function TodolistPage() {
     <div className="container-fluid min-vh-100">
       <div className="row h-100">
         {/* ── 2) Sidebar (รับ props userName, type) ─────────────────────────── */}
-        <Sidebar userName="Nuttachai Surathong" type="admin" />
+        <Sidebar userName="Nuttachai Surathong" type="Sidebar" />
 
         <div className="col-10 p-0 d-flex flex-column min-vh-100">
           {/* ── 1) Header (ไม่รับ props) ────────────────────────────────────── */}
